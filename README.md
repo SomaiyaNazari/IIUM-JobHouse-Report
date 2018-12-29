@@ -19,6 +19,7 @@ IIUM JobHouse Report
                                                      Date: 28/12/2018
  
 1 INTRODUCTION
+
 IIUM Job House is a native mobile application that helps the owners of shops, cafes and restaurants within IIUM to find employees who are willing to work. This application also enables job seekers to search for whether part or full time job vacancies in the shops, cafes, restaurants and photocopy centres within IIUM. The main purpose of this application is to be a mean of connection between job providers and job seekers.
 
 2 PROBLEM DESCRIPTION
